@@ -1,0 +1,9 @@
+/* Estilos personalizados */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(72, 108, 36);
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
